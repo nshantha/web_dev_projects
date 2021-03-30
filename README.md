@@ -10,7 +10,7 @@
 > * react router dom
 > * styled components
 > * firebase based packages
-###### Live Link hosted on firebase:
+**Live Link hosted on firebase**:
 > https://clone-9736c.web.app/
 
 #### 2) Github Job Hunting Website:
@@ -20,6 +20,6 @@
 > * react-bootstrap
 > * axiom
 > * cors-anywhere to bypass cors error
-###### Live Link(Hosted on Firebase) :
+**Live Link(Hosted on Firebase)** :
 https://github-jobs-f202e.web.app/
 
