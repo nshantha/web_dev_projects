@@ -1,4 +1,4 @@
-# web_dev_projects
+### Web Applications
 
 #### 1) Amazon retail webapp clone:
 **Front-End**: ReactJs 
