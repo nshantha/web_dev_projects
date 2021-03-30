@@ -1,18 +1,18 @@
 # web_dev_projects
 
 ### Amazon retail webapp clone:
-> **Front-End**: ReactJs 
+**Front-End**: ReactJs 
 
-> **Back-End** : Firebase
+**Back-End** : Firebase
 
-> **Packages needed**:
-* npm
-* material UI core and icons
-* react router dom
-* styled components
-* firebase based packages
+**Packages needed**:
+> * npm
+> * material UI core and icons
+> * react router dom
+> * styled components
+> * firebase based packages
 ###### Live Link hosted on firebase:
-https://clone-9736c.web.app/
+> https://clone-9736c.web.app/
 
 ### Github Job Hunting Website:
 **Front-End**: ReactJs, BootStrap
