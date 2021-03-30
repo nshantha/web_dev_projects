@@ -1,6 +1,6 @@
 # web_dev_projects
 
-### 1) Amazon retail webapp clone:
+#### 1) Amazon retail webapp clone:
 **Front-End**: ReactJs 
 
 **Back-End** : Firebase
@@ -13,7 +13,7 @@
 ###### Live Link hosted on firebase:
 > https://clone-9736c.web.app/
 
-### 2) Github Job Hunting Website:
+#### 2) Github Job Hunting Website:
 **Front-End**: ReactJs, BootStrap
 
 **packages required**:
