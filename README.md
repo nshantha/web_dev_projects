@@ -21,5 +21,4 @@
 > * axiom
 > * cors-anywhere to bypass cors error
 
-> **Live Link(Hosted on Firebase)** : https://github-jobs-f202e.web.app/
 
